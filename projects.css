@@ -1,0 +1,29 @@
+.item {
+    float: right; 
+    margin-left: 10px; 
+}
+
+.item2 {
+    float: left; 
+    margin-right: 10px; 
+}
+
+.editor1 {
+    float: right; 
+    margin-left: 10px; 
+}
+
+.editor2 {
+    float: left; 
+    margin-right: 10px; 
+}
+
+.coding1 {
+    float: right; 
+    margin-left: 10px; 
+}
+
+.coding2 {
+    float: left; 
+    margin-right: 10px; 
+}
